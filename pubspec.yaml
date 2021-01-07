@@ -44,7 +44,7 @@ dev_dependencies:
   flutter_launcher_icons: ^0.7.4
 flutter_icons:
   android: true
-  ios: false
+  ios: true
   image_path: "assets/images/hatah.png"
   adaptive_icon_background: "#57AEAF"
 # For information on the generic Dart part of this file, see the
